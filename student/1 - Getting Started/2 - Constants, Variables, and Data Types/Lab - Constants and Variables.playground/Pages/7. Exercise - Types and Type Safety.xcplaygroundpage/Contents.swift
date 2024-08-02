@@ -18,7 +18,7 @@ print("No compile because firsDecimal it's a decimal type and text it's a string
 
 //:  Finally, declare a variable with a whole number value. Then try to assign it to `firstDecimal`. Why won't this compile even though both variables are numbers? Print a statement to the console explaining why not, and remove the line of code that will not compile.
 var intNumber = 10
-intNumber = firsDecimal
+//intNumber = firsDecimal
 print("No compile because firsDecimal it's a decimal type and text it's a int")
 
 /*:
